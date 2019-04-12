@@ -1,2 +1,1 @@
-Pika is a shell that implements exec and fork
-done for a operating system project
+Pika is a shell that implements the shell commands, builtins and other functionalities like pipe, background processes and input output redirection using fork and exec.
